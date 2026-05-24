@@ -1,0 +1,42 @@
+{
+  "timestamp": null,
+  "system": "tannlegeklinikk-rom13-vannalarm",
+  "clinic": "tannlegeklinikk",
+  "room": "rom_13",
+  "nodes": {
+    "modul_1": {
+      "node_id": "modul_1",
+      "location": "punkt_a",
+      "online": false,
+      "last_seen": null,
+      "bme680_ok": false,
+      "temperature_c": null,
+      "humidity_percent": null,
+      "pressure_hpa": null,
+      "gas_kohms": null,
+      "water_ao": null,
+      "water_do": null,
+      "water_detected": false,
+      "local_led_on": false,
+      "local_buzzer_on": false
+    },
+    "modul_2": {
+      "node_id": "modul_2",
+      "location": "punkt_b",
+      "online": false,
+      "last_seen": null,
+      "bme680_ok": false,
+      "temperature_c": null,
+      "humidity_percent": null,
+      "pressure_hpa": null,
+      "gas_kohms": null,
+      "water_ao": null,
+      "water_do": null,
+      "water_detected": false,
+      "local_led_on": false,
+      "local_buzzer_on": false
+    }
+  },
+  "any_water_detected": false,
+  "alarm_active": false
+}
