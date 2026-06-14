@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-14T21:09:51Z",
+  "timestamp": "2026-06-14T21:09:57Z",
   "system": "tannlegeklinikk-rom13-vannalarm",
   "clinic": "tannlegeklinikk",
   "room": "rom_13",
@@ -9,9 +9,9 @@
       "location": "punkt_a",
       "room": "rom_13",
       "online": true,
-      "last_seen": "2026-06-14T21:09:46Z",
+      "last_seen": "2026-06-14T21:09:57Z",
       "bme680_ok": true,
-      "temperature_c": 21.69,
+      "temperature_c": 21.7,
       "humidity_percent": 52.51,
       "pressure_hpa": 1001.62,
       "gas_kohms": 57.82,
