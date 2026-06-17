@@ -1,30 +1,5 @@
 [
   {
-    "timestamp": "2026-06-17T07:46:09Z",
-    "node_id": "modul_2",
-    "location": "punkt_b",
-    "room": "rom_13",
-    "client_host": "192.168.1.131",
-    "data": {
-      "node_id": "modul_2",
-      "location": "punkt_b",
-      "room": "rom_13",
-      "online": true,
-      "last_seen": "2026-06-17T07:46:09Z",
-      "bme680_ok": true,
-      "temperature_c": 20.66,
-      "humidity_percent": 44.09,
-      "pressure_hpa": 1013.53,
-      "gas_kohms": 189.92,
-      "water_ao": 4095,
-      "water_do": 1,
-      "water_detected": false,
-      "local_led_on": false,
-      "local_buzzer_on": false,
-      "client_host": "192.168.1.131"
-    }
-  },
-  {
     "timestamp": "2026-06-17T07:46:15Z",
     "node_id": "modul_1",
     "location": "punkt_a",
@@ -24997,6 +24972,31 @@
       "local_led_on": false,
       "local_buzzer_on": false,
       "client_host": "192.168.1.130"
+    }
+  },
+  {
+    "timestamp": "2026-06-17T09:12:57Z",
+    "node_id": "modul_2",
+    "location": "punkt_b",
+    "room": "rom_13",
+    "client_host": "192.168.1.131",
+    "data": {
+      "node_id": "modul_2",
+      "location": "punkt_b",
+      "room": "rom_13",
+      "online": true,
+      "last_seen": "2026-06-17T09:12:57Z",
+      "bme680_ok": true,
+      "temperature_c": 20.39,
+      "humidity_percent": 45.21,
+      "pressure_hpa": 1014.0,
+      "gas_kohms": 200.65,
+      "water_ao": 4095,
+      "water_do": 1,
+      "water_detected": false,
+      "local_led_on": false,
+      "local_buzzer_on": false,
+      "client_host": "192.168.1.131"
     }
   }
 ]
